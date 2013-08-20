@@ -1,5 +1,11 @@
-jason:
-  first_name: "Jason"
-  last_name: "Seifer"
-  email: "jason@teamtreehouse.com"
-  profile_name: "jasonseifer"
+chase:
+  first_name: "Chase"
+  last_name: "James"
+  email: "chaseofchase@yahoo.com"
+  profile_name: "chasejames"
+
+rome:
+first_name: "Rome"
+last_name: "Gittisarn"
+email: "rome@yahoo.com"
+profile_name: "romegitt"
