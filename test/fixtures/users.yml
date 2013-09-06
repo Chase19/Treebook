@@ -5,7 +5,13 @@ chase:
   profile_name: "chasejames"
 
 rome:
-first_name: "Rome"
-last_name: "Gittisarn"
-email: "rome@yahoo.com"
-profile_name: "romegitt"
+	first_name: "Rome"
+	last_name: "Gittisarn"
+	email: "rome@yahoo.com"
+	profile_name: "romegitt"
+
+mike:
+	first_name: "Mike"
+	last_name: "The Frog"
+	email: "mike@teamtreehouse.com"
+	profile_name: "mikethefrog"
